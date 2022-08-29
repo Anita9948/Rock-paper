@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    background: url(https://t4.ftcdn.net/jpg/00/84/60/25/360_F_84602505_CbgZtlxEktGN0wfLfTQMuRNvBau4mujo.jpg);
+    background-size: cover;
+    font-style: italic;
+    font-size: larger;
+    color: white;
+  
+  }
+  button {
+    background-color: black;
+    color: whitesmoke;
+    border-radius: 10%;
+    font-size: 28px;
+    padding: 15px;
+    margin: 30px;
+  }
+  p {
+    font-weight: 900;
+    color: white
+  }
+  h4{
+    margin: 50px 0 0 0;
+  }
+ #reset{
+   background-color: maroon; 
+ }
